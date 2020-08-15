@@ -1,0 +1,23 @@
+{
+    "name": "alexonbstudio/ssllabs-api",
+    "description": "API V3 for ssllabs.com",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Alexon Balangue"
+        },
+        {
+            "name": "Björn Roland"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "alexonbstudio\\ssllabs-api\\": "src/"
+        }
+    }
+}
