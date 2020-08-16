@@ -13,11 +13,6 @@
             "name": "Björn Roland"
         }
     ],
-  "archive": {
-    "exclude": [
-      "test/",
-    ]
-  },
     "require": {
         "php": ">=7.2"
     },
