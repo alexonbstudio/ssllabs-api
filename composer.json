@@ -2,7 +2,7 @@
     "name": "alexonbstudio/ssllabs-api",
     "description": "API V3 for ssllabs.com",
     "type": "library",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "GPL-3.0",
     "minimum-stability": "stable",
     "authors": [
