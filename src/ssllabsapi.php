@@ -1,6 +1,6 @@
 <?php
 
-namespace alexonbstudio/sslLabsApi; # not need
+namespace alexonbstudio\sslLabsApi; # not need if move
 /**
  * PHP-SSLLabs-API V3
  * 
