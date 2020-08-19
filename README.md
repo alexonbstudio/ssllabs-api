@@ -3,7 +3,7 @@ This PHP library provides basic access to the SSL Labs API.
 
 ## Usage example
 
-Full example in [full-pages.php](full-pages.php)
+Full example in [full-pages.php](test/full-pages.php)
 
 ## Methods
 ### fetchApiInfo()

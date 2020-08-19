@@ -219,7 +219,7 @@ class sslLabsApi
 	}
 }
 
-				$domains = 'alexonbstudio.yo.fr';
+				$domains = 'cloudflare.com';
 				$lang = '';
 				$povided = '';
 		 /*********************************/
